@@ -1,3 +1,3 @@
 # background-generator
 
-[View My Website]()
+[View the Website](https://gedi-official.github.io/background-generator/)
